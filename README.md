@@ -35,7 +35,7 @@ It is designed to be simple, interactive, and efficient.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To create a digital quiz system that tests user knowledge, automates scoring, and demonstrates OOP concepts in Python through a real-world project.
 
 ---
